@@ -1,0 +1,15 @@
+# Private Zugangsdaten – niemals einchecken
+secrets.h
+**/secrets.h
+
+# Build-Ausgaben
+build/
+*.bin
+*.elf
+*.map
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
